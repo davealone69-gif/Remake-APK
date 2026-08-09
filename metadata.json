@@ -1,0 +1,8 @@
+{
+  "name": "Remix Copilot AI Assistant",
+  "description": "A versatile AI companion that helps you search, create, and accomplish tasks more efficiently through natural language interaction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
